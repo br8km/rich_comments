@@ -1,0 +1,13 @@
+
+# ignore __pycache__ files
+__pycache__
+
+# ignore private dat files
+dat/private/
+
+
+# ignore debug/log/tmp files
+out/
+out/debug/
+out/log/
+out/tmp/
